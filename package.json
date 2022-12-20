@@ -1,0 +1,15 @@
+{
+  "name": "post_gre_sql",
+  "version": "1.0.0",
+  "description": "first sql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Riddhiman Goswami",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^6.27.0",
+    "sqlite3": "^5.1.4"
+  }
+}
