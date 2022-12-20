@@ -9,6 +9,7 @@
   "author": "Riddhiman Goswami",
   "license": "ISC",
   "dependencies": {
+    "pg": "^8.8.0",
     "sequelize": "^6.27.0",
     "sqlite3": "^5.1.4"
   }
